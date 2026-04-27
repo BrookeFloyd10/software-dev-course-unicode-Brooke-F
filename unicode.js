@@ -108,3 +108,8 @@ console.log({
   wordFromCodePoints,
   swappedString,
 });
+//Outputs:
+//  firstCodePoint: 67,
+//  hirdCodePoint: 100,
+//  wordFromCodePoints: 'Hell',
+//  swappedString: 'hauncL'
